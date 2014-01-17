@@ -21,7 +21,7 @@ reg_rtc_months	=	6
 reg_rtc_days	=	5
 reg_rtc_hours	=	4
 reg_rtc_minutes	=	3
-reg_rtc_minutes	=	2
+reg_rtc_seconds	=	2
 
 ad_rtc = 160 -- address of PCF8583
 A0     = 0 -- pin A0 at vdd, if at GND=2
